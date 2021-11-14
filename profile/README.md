@@ -1,12 +1,12 @@
-## Hi there 👋
+<h1 align="center">Bursa Teknik Üniversitesi Bursat Takımı</h1>
 
-<!--
+Bursat takımının Github hesabına hoşgeldiniz! Eğer Bursat takımı üyesi değilseniz takımın yazdığı ve herkese açık olarak paylaştığı kodları inceleyebilirsiniz. Bursat takımı üyeleri ise [buradan kuralları](https://github.com/Bursat/Kurallar) okuyarak başlamalıdır.
 
-**Here are some ideas to get you started:**
+## Paylaşılan Çalışmalar
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### 2021
+
+* [Ülgen Uçuş Yazılımı](https://github.com/Bursat/ulgen-ucus-yazilimi-2021)
+* [Ülgen Yer İstasyonu Yazılımı](https://github.com/Bursat/ulgen-yer-istasyonu-2021)
+
+<p align="center"><img src="../image.png"></img></p>
