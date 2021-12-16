@@ -1,6 +1,6 @@
 <h1 align="center">Bursa Teknik Üniversitesi Bursat Model Uydu Takımı</h1>
 
-Bursa Teknik Üniversites Bursat Model Uydu Takımı'nın Github hesabına hoşgeldiniz!
+<p align="center">Bursa Teknik Üniversites Bursat Model Uydu Takımı'nın Github hesabına hoşgeldiniz!</p>
 
 ## Paylaşılan Çalışmalar
 
