@@ -1,6 +1,6 @@
-<h1 align="center">Bursa Teknik Üniversitesi Bursat Takımı</h1>
+<h1 align="center">Bursa Teknik Üniversitesi Bursat Model Uydu Takımı</h1>
 
-Bursat takımının Github hesabına hoşgeldiniz! Eğer Bursat takımı üyesi değilseniz takımın yazdığı ve herkese açık olarak paylaştığı kodları inceleyebilirsiniz. Bursat takımı üyeleri ise [buradan kuralları](https://github.com/btu-bursat/Kurallar) okuyarak başlamalıdır.
+Bursa Teknik Üniversites Bursat Model Uydu Takımı'nın Github hesabına hoşgeldiniz!
 
 ## Paylaşılan Çalışmalar
 
