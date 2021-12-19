@@ -14,6 +14,7 @@
 * Instagram: [@btu.bursat](https://www.instagram.com/btu.bursat/)
 * Mail: [btu.bursat@gmail.com](mailto:btu.bursat@gmail.com)
 * Github: [@btu-bursat](https://github.com/btu-bursat)
-* Linkein: [Bursat Model Uydu Takımı](https://www.linkedin.com/company/bursat-model-uydu-takimi/)
+* LinkedIn: [Bursat Model Uydu Takımı](https://www.linkedin.com/company/bursat-model-uydu-takimi/)
+* Youtube: [Bursat Model Uydu Takımı](https://www.youtube.com/channel/UCDUSnmFRmXiUOGfufKUc7Og)
 
 <p align="center"><img src="https://raw.githubusercontent.com/Bursat/.github/main/images/logo.png"></img></p>
